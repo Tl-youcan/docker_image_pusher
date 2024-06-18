@@ -1,3 +1,4 @@
 runnable/php:5.6.27-apache
 mysql/mysql-server:8.0.32-1.2.11-server
 ubuntu:16.04
+vulhub/solr:8.11.0
